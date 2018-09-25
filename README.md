@@ -53,4 +53,3 @@ Bonus points:
 
 Results: please share a git repository with us containing your implementation.
 
-**Do not mention 90 percent of everything or 90poe anywhere on the code or repository name.**
