@@ -1,3 +1,6 @@
+NOT ENOUGH TIME TO SETUP ALL BEST PRACTICES PROJECT FOR ME.
+
+
 # React assignment
 
 ## Crew applications
